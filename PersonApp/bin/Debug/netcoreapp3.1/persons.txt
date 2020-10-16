@@ -1,0 +1,4 @@
+Hans;43;Dornbirn
+Fritz;58;Nenzing
+Helga;45;Lustenau
+Frida;51;Fussach

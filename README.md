@@ -1,6 +1,6 @@
 ﻿# C---People-Task
  
- Find the File "peopleWithJob.txt" in "C---People-Task/PersonApp/bin/Debug/netcoreapp3.1/"
+ Get the File "peopleWithJob.txt" in "C---People-Task/PersonApp/bin/Debug/netcoreapp3.1/"
  There you can see the entries of each Person like this:
  
  NAME;AGE;CITY;JOB

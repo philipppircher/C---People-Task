@@ -5,11 +5,6 @@ namespace PersonApp
 {
     public class Person
     {
-        public Person()
-        {
-
-        }
-
         public Person(string name, int age, string city)
         {
             Name = name;

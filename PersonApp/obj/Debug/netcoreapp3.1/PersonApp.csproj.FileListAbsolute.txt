@@ -10,3 +10,4 @@ C:\Users\DCV\Desktop\Code\05 C#\PersonApp\PersonApp\obj\Debug\netcoreapp3.1\Pers
 C:\Users\DCV\Desktop\Code\05 C#\PersonApp\PersonApp\obj\Debug\netcoreapp3.1\PersonApp.dll
 C:\Users\DCV\Desktop\Code\05 C#\PersonApp\PersonApp\obj\Debug\netcoreapp3.1\PersonApp.pdb
 C:\Users\DCV\Desktop\Code\05 C#\PersonApp\PersonApp\obj\Debug\netcoreapp3.1\PersonApp.genruntimeconfig.cache
+C:\Users\DCV\Desktop\Code\05 C#\PersonApp\PersonApp\obj\Debug\netcoreapp3.1\PersonApp.csprojAssemblyReference.cache
